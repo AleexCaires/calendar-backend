@@ -5,8 +5,5 @@
       "src": "index.mjs",
       "use": "@vercel/node"
     }
-  ],
-  "env": {
-    "GOOGLE_APPLICATION_CREDENTIALS": "./creds.json"
-  }
+  ]
 }
